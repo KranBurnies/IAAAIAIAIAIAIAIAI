@@ -1,0 +1,6 @@
+"Arithmetic Practice", "15", "MCQ", "Maths"
+"Essay", "45", "Written", "English"
+"Worksheet", "20", "Written", "Physics"
+"Worksheet", "25", "Written", "Biology"
+"Worksheet", "25", "Written", "Chemistry"
+"Presentation", "90", "Typed", "Physics"
